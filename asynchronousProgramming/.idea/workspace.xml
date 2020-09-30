@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6e6820d-9573-4b92-9c40-6d40c409e3be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/refCountedDeallocation.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.Inheritance_with_memory_alignment.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../1.Inheritance_with_memory_alignment.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.Inheritance_with_virtual_function.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2.Inheritance_with_virtual_function.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1iARqtPsfjUIVpnHmACX6E4b1r7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6e6820d-9573-4b92-9c40-6d40c409e3be" name="Default Changelist" comment="" />
+      <created>1601348603732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601348603732</updated>
+      <workItem from="1601348604764" duration="484000" />
+      <workItem from="1601350778150" duration="9910000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601351941330">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="360" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.-420.1920.1057/0.23.1792.1024@0.23.1792.1024" timestamp="1601350764318" />
+    <state x="360" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.-420.1920.980/0.23.1792.1097@0.23.1792.1097" timestamp="1601351941330" />
+    <state x="614" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601447611147">
+      <screen x="0" y="23" width="1792" height="1024" />
+    </state>
+    <state x="614" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1024@0.23.1792.1024" timestamp="1601447611147" />
+    <state x="634" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601436772471">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state x="634" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1792.-642.1920.1057/0.23.1792.1022@0.23.1792.1022" timestamp="1601436772471" />
+    <state x="634" y="289" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1792.-642.1920.1057/0.23.1792.1024@0.23.1792.1024" timestamp="1601436578702" />
+    <state x="634" y="289" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/50.-1057.1920.1057/0.23.1792.1024@0.23.1792.1024" timestamp="1601356585613" />
+    <state x="594" y="272" width="606" height="576" key="find.popup" timestamp="1601356670709">
+      <screen x="0" y="23" width="1792" height="1024" />
+    </state>
+    <state x="594" y="290" width="604" height="548" key="find.popup/1792.-420.1920.980/0.23.1792.1097@0.23.1792.1097" timestamp="1601351885968" />
+    <state x="594" y="272" width="606" height="576" key="find.popup/50.-1057.1920.1057/0.23.1792.1024@0.23.1792.1024" timestamp="1601356670709" />
+  </component>
+</project>
